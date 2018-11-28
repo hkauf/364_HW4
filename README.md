@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SI 364 - F18 - HW4
 
 ### DEADLINE: November 27, 2018 at 11:59 pm
@@ -43,3 +44,6 @@ Then, just as you did for the midterm assignment, create a GitHub repository for
 Push *all* of the code files, including any additional files you add and all included files, to this GitHub repository.
 
 Submit the link to your GitHub repository on the Canvas assignment for HW4. It should take the form of: `https://github.com/YOURGITHUBUSERNAME/HW4_364`
+=======
+# 364_HW4
+>>>>>>> dbfb23196e32deefa8441cf55402a67644ba3218
